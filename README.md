@@ -7,7 +7,7 @@ Code for paper: Robust Multichannel EEG Compressed Sensing in the Presence of Mi
 * DOI: 10.1109/JSEN.2019.2930546
 ## Instructions
 * The SLRMN function and demo code can be found in SLRMN 1.
-* The dataset can be found(here) (CHB-MIT scalp EEG database: http://www.physionet.org/cgi-bin/atm/ATM, BCI III: Available at: http://www.bbci.de/competition/iii/]
+* The dataset can be found(here) (CHB-MIT scalp EEG database: http://www.physionet.org/cgi-bin/atm/ATM, BCI III: Available at: http://www.bbci.de/competition/iii/.
 * The sample data can be found in SLRMN 2.
 * Please install cvx-w64 in matlab before running.
 ## Requirements
